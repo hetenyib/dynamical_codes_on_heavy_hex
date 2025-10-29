@@ -1,4 +1,4 @@
-# dynamical codes on heavy hex
+# Dynamical codes on heavy hex
 Repo accompanying https://arxiv.org/abs/2510.05225
 Contains: 
 - notebook used for the simulations and to generating some of the figures (```simulations_and_figures.ipynb```)
