@@ -1,0 +1,6 @@
+numpy
+matplotlib
+stim
+pymatching
+ldpc
+beliefmatching
